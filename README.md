@@ -39,6 +39,20 @@ The dataset used is the famous Iris dataset, which contains 150 samples with 4 f
 2. Install dependencies
 3. Run the Python file
 
+## 📊 Data Visualization
+
+### 📌 Boxplot Distribution
+![Boxplot](Boxplots_distributions_species.png)
+
+### 📌 Correlation Matrix
+![Correlation](Coorelation_matrix.png)
+
+### 📌 Histograms
+![Histograms](Histograms.png)
+
+### 📌 Feature Length Analysis
+![Length](Length.png)
+
 ```bash
 pip install -r requirements.txt
 python main.py
